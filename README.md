@@ -35,7 +35,7 @@ Install dependencies with:
 pip install numpy matplotlib
 
 ```
----
+
 ## 🙋‍♂️ Author
 
 **Yu-Tse Wu** (吳雨澤)  
