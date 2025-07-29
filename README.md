@@ -33,3 +33,9 @@ Install dependencies with:
 
 ```bash
 pip install numpy matplotlib
+
+---
+## 🙋‍♂️ Author
+
+**Yu-Tse Wu** (吳雨澤)  
+*Master’s Student at the Institute of Innovation and Semiconductor Manufacturing, National Sun Yat-sen University*
