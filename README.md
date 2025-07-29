@@ -34,6 +34,7 @@ Install dependencies with:
 ```bash
 pip install numpy matplotlib
 
+```
 ---
 ## 🙋‍♂️ Author
 
